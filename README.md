@@ -5,10 +5,10 @@ The course is designed for students and researchers who have a basic background 
 
 ## Parts of the Course
 
-### Day 1: Debugging with Python
+### Day 1: Debugging in Python
 
 
-### Day 2: Debugging with Matlab (Presenter: Thomas Pfau)
+### Day 2: Debugging in Matlab (Presenter: Thomas Pfau)
 
 **Prerequesites**:  
 Software: Installed Matlab 2021b including the Mapping toolbox. 
@@ -19,4 +19,8 @@ This module will give an overview of basic matlab concepts, common errors (and e
 
 Materials: https://github.com/AaltoSciComp/Matlab-Debugging-Exercises
 
-### Day 3: ebugging with C/C++ (Presenter: Jarno Rantaharju)
+### Day 3: Debugging in C/C++ (Presenter: Jarno Rantaharju)
+
+### Day 4: Debugging in R (Presenter: Simo Tuomisto)
+
+### Day 5: Debugging in Julia (Presenter: Luca Ferranti)
