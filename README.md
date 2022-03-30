@@ -11,7 +11,7 @@ The course is designed for students and researchers who have a basic background 
 ### Day 2: Debugging in Matlab (Presenter: Thomas Pfau)
 
 **Prerequesites**:  
-Software: Installed Matlab 2021b including the Mapping toolbox. 
+Software: Installed Matlab 2021b including the Mapping toolbox.  
 Skills: Basic understanding of Matlab (Essentially what is taught in our Matlab Basics Course [here](https://version.aalto.fi/gitlab/eglerean/matlabcourse/-/tree/master/AY20212022/MatlabBasics2021))
 
 **Content**:
