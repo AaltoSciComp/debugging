@@ -32,3 +32,12 @@ Materials: [Matlab-Debugging-Exercises](https://github.com/AaltoSciComp/Matlab-D
 ### Day 4: Debugging in R (Presenter: Simo Tuomisto)
 
 ### Day 5: Debugging in Julia (Presenter: Luca Ferranti)
+
+**Prerequisites**:
+Software: Detailed installation instructions about Julia and required libraries in the materials repository (to appear)
+Skills: Familiarity with debugging concepts and programming skills in some programming language is assumed, basic knowledge of Julia and Julia environments is beneficial, but will be briefly reviewed at the beginning.
+
+**Content**:
+This module will give an overview of how to apply traditional debugging techniques in Julia. It will also focus on typical Julia specific gotchas and how to detect and fix them. If time allows, more advanced "debugging for performance" aspects such as detecting and fixing type stability issues will also be presented. 
+
+**Material**: coming soon!
