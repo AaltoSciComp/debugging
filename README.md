@@ -7,21 +7,22 @@ The course is designed for students and researchers who have a basic background 
 
 ### Day 1: Debugging in Python (Presenter: Simppa Äkäslompolo)
 
-**Content**:
+**Prerequesites**:  
+Basic knowledge of the python language and a working python installation to try the tricks on.
+
+**Content**:  
 We first recapitulate a few key features of the python language. After that we take a look at the python specific tools to help analyse a python program. We conclude with a few words on how to avoid problems.
 
 The course material is being written into the github page [python-debugging](https://aaltoscicomp.github.io/python-debugging/).
 
-**Prerequesites**:
-Basic knowledge of the python language and a working python installation to try the tricks on.
 
 ### Day 2: Debugging in Matlab (Presenter: Thomas Pfau)
 
-**Prerequesites**:
+**Prerequesites**:  
 Software: Installed Matlab 2021b including the Mapping toolbox.  
 Skills: Basic understanding of Matlab (Essentially what is taught in our Matlab Basics Course [here](https://version.aalto.fi/gitlab/eglerean/matlabcourse/-/tree/master/AY20212022/MatlabBasics2021))
 
-**Content**:
+**Content**:  
 This module will give an overview of basic matlab concepts, common errors (and error-messages) how to read and interpret these error messages and provide a variety of exercises to make allow you to use the tools introduced and get some experience with them. 
 
 Materials: [Matlab-Debugging-Exercises](https://github.com/AaltoSciComp/Matlab-Debugging-Exercises)
