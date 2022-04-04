@@ -46,7 +46,9 @@ Software:
     * You can also try [drMemory](https://drmemory.org/page_install.html)
 
 **Content**
-This module will cover common errors in C and 
+C and C++ allows very direct control over your computer, including directly allocating and accessing memory. The languages are very versatile, but also
+enable a wide class of bugs, both obvious and subtle.
+This module will cover common errors in C and common tools for identifying problems. 
 
 ### Day 4: Debugging in R (Presenter: Simo Tuomisto)
 
