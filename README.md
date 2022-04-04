@@ -29,6 +29,25 @@ Materials: [Matlab-Debugging-Exercises](https://github.com/AaltoSciComp/Matlab-D
 
 ### Day 3: Debugging in C/C++ (Presenter: Jarno Rantaharju)
 
+**Prerequisites**
+
+Skills: Basic knowledge of C, C++ or both. 
+
+Software:
+ * A c compiler. If you can run your C or C++ code, you have one.
+ * A debugger
+    * If you have a preferred IDE, you can use it. Since the interface can be different, I recommend you install the below as well.
+    * Windows: [Visual Studio Code](https://code.visualstudio.com/) with the `C/C++` extension. 
+    * Other systems: [gdb](https://www.sourceware.org/gdb/). You probably already have it. Try running `gdb --version` to verify.
+* A memory analyser
+  * Windows: [drMemory](https://drmemory.org/page_install.html)
+  * Other systems: Valgrind.
+    * Ubuntu/Debian: Run `sudo apt-get install valgrind`
+    * You can also try [drMemory](https://drmemory.org/page_install.html)
+
+**Content**
+This module will cover common errors in C and 
+
 ### Day 4: Debugging in R (Presenter: Simo Tuomisto)
 
 ### Day 5: Debugging in Julia (Presenter: Luca Ferranti)
