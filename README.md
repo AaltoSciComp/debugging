@@ -23,7 +23,7 @@ Software: Installed Matlab 2021b including the Mapping toolbox.
 Skills: Basic understanding of Matlab (Essentially what is taught in our Matlab Basics Course [here](https://version.aalto.fi/gitlab/eglerean/matlabcourse/-/tree/master/AY20212022/MatlabBasics2021))
 
 **Content**:  
-This module will give an overview of basic matlab concepts, common errors (and error-messages) how to read and interpret these error messages and provide a variety of exercises to allow you to use the tools introduced and get some experience with them. 
+This module will give an overview of basic matlab concepts, common errors (and error-messages) how to read and interpret these error messages and provides a variety of exercises to allow you to use the tools introduced and get some experience with them. 
 
 Materials: [Matlab-Debugging-Exercises](https://github.com/AaltoSciComp/Matlab-Debugging-Exercises)
 
