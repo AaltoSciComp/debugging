@@ -52,6 +52,18 @@ This module will cover common errors in C and common tools for identifying probl
 
 ### Day 4: Debugging in R (Presenter: Simo Tuomisto)
 
+**Prerequisites**:
+
+Software: Rstudio. Detailed instructions on installation and usage will be
+in a r-debugging repository.
+
+Skills: Familiarity with R as a language.
+
+**Content**:
+We'll look into how one can trace errors, use interactive debugger to view
+function internals, use breakpoints to quickly check your code and how to
+debug non-interactive codes.
+
 ### Day 5: Debugging in Julia (Presenter: Luca Ferranti)
 
 **Prerequisites**:
