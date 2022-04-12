@@ -31,19 +31,19 @@ Materials: [Matlab-Debugging-Exercises](https://github.com/AaltoSciComp/Matlab-D
 
 **Prerequisites**
 
-Skills: Basic knowledge of C, C++ or both. 
+Skills: Basic knowledge of C, C++ or both.
 
 Software:
  * A c compiler. If you can run your C or C++ code, you have one.
  * A debugger
     * If you have a preferred IDE, you can use it. Since the interface can be different, I recommend you install the below as well.
-    * Windows: [Visual Studio Code](https://code.visualstudio.com/) with the `C/C++` extension. 
+    * Windows: [Visual Studio Code](https://code.visualstudio.com/) with the `C/C++` extension. Consider trying this even if you have gdb.
     * Other systems: [gdb](https://www.sourceware.org/gdb/). You probably already have it. Try running `gdb --version` to verify.
 * A memory analyser
-  * Windows: [drMemory](https://drmemory.org/page_install.html)
-  * Other systems: Valgrind.
-    * Ubuntu/Debian: Run `sudo apt-get install valgrind`
-    * You can also try [drMemory](https://drmemory.org/page_install.html)
+    * Windows: [drMemory](https://drmemory.org/page_install.html)
+    * Other systems: Valgrind.
+        * Ubuntu/Debian: Run `sudo apt-get install valgrind`
+        * You can also try [drMemory](https://drmemory.org/page_install.html)
 
 **Content**
 C and C++ allows very direct control over your computer, including directly allocating and accessing memory. The languages are very versatile, but also
