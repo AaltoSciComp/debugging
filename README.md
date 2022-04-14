@@ -54,7 +54,7 @@ This module will cover common errors in C and common tools for identifying probl
 
 **Material**: coming soon!
 
-### Day 5: Debugging in Julia (Presenter: Luca Ferranti)
+### Day 4: Debugging in Julia (Presenter: Luca Ferranti)
 
 **Prerequisites**:
 Software: Detailed installation instructions about Julia and required libraries in the materials repository (to appear)
@@ -65,7 +65,7 @@ This module will give an overview of how to apply traditional debugging techniqu
 
 **Material**: coming soon!
 
-### Day 4: Debugging in R (Presenter: Simo Tuomisto)
+### Day 5: Debugging in R (Presenter: Simo Tuomisto)
 
 **Prerequisites**:
 
