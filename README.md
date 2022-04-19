@@ -68,7 +68,7 @@ This module will give an overview of how to apply traditional debugging techniqu
 
 **Material**: coming soon!
 
-### Day 5: Debugging in R (Presenter: Simo Tuomisto)
+### Day 5: Debugging in R (Presenter: Simo Tuomisto, co-teached by Jarno Rantaharju)
 
 **Prerequisites**:
 
