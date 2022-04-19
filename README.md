@@ -7,7 +7,7 @@ See the [course page](https://scicomp.aalto.fi/training/scip/debugging-2022/) fo
 
 ## Parts of the Course
 
-### Day 1: Debugging in Python (Presenter: Simppa Äkäslompolo)
+### Day 1: Debugging in Python (Presenter: Simppa Äkäslompolo, co-teached by Thomas Pfau)
 
 **Prerequesites**:  
 Basic knowledge of the python language and a working python installation to try the tricks on.
@@ -32,7 +32,7 @@ This module will give an overview of basic matlab concepts, common errors (and e
 
 Materials: [Matlab-Debugging-Exercises](https://github.com/AaltoSciComp/Matlab-Debugging-Exercises)
 
-### Day 3: Debugging in C/C++ (Presenter: Jarno Rantaharju)
+### Day 3: Debugging in C/C++ (Presenter: Jarno Rantaharju, co-teached by Simppa Äkäslompolo)
 
 **Prerequisites**
 
@@ -57,7 +57,7 @@ This module will cover common errors in C and common tools for identifying probl
 
 **Material**: coming soon!
 
-### Day 4: Debugging in Julia (Presenter: Luca Ferranti)
+### Day 4: Debugging in Julia (Presenter: Luca Ferranti, co-teached by Jarno Rantaharju)
 
 **Prerequisites**:
 Software: Detailed installation instructions about Julia and required libraries in the materials repository (to appear)
@@ -68,7 +68,7 @@ This module will give an overview of how to apply traditional debugging techniqu
 
 **Material**: coming soon!
 
-### Day 5: Debugging in R (Presenter: Simo Tuomisto)
+### Day 5: Debugging in R (Presenter: Simo Tuomisto, co-teached by Jarno Rantaharju)
 
 **Prerequisites**:
 
