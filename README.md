@@ -11,9 +11,12 @@ See the [course page](https://scicomp.aalto.fi/training/scip/debugging-2022/) fo
 
 **Prerequesites**:  
 Basic knowledge of the python language and a working python installation to try the tricks on.
+* git is used to check out examples
+* Examples are shown mostly using `ipython`, but a few flashes from`spyder`is shown as well. However, a plain `python` works also. Jupyter notebooks can be used as the user interface in principle, but the interface to the debugger is not perfect.
+* The exercise example has a a graphical user interface, so if it is good if you can use graphical programs. Alternatively, you can simply work on your own code instead of the examples.
 
 **Content**:  
-We first recapitulate a few key features of the python language. After that we take a look at the python specific tools to help analyse a python program. We conclude with a few words on how to avoid problems.
+We first recapitulate a few key features of the python language. After that we say a few words on how to avoid problems. Finally, we take a look at the python specific tools to help analyse a python program. 
 
 The course material is being written into the github page [python-debugging](https://aaltoscicomp.github.io/python-debugging/).
 
