@@ -55,7 +55,7 @@ C and C++ allows very direct control over your computer, including directly allo
 enable a wide class of bugs, both obvious and subtle.
 This module will cover common errors in C and common tools for identifying problems. 
 
-**Material**: coming soon!
+**Material**: https://rantahar.github.io/debugging-c-cpp
 
 ### Day 4: Debugging in Julia (Presenter: Luca Ferranti, co-teached by Jarno Rantaharju)
 
