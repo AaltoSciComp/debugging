@@ -66,7 +66,7 @@ Skills: Familiarity with debugging concepts and programming skills in some progr
 **Content**:
 This module will give an overview of how to apply traditional debugging techniques in Julia. It will also focus on typical Julia specific gotchas and how to detect and fix them. If time allows, more advanced "debugging for performance" aspects such as detecting and fixing type stability issues will also be presented. 
 
-**Material**: coming soon!
+**Material**: https://github.com/lucaferranti/JuliaDebuggingWorkshop
 
 ### Day 5: Debugging in R (Presenter: Simo Tuomisto, co-teached by Jarno Rantaharju)
 
