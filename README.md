@@ -82,4 +82,4 @@ We'll look into how one can trace errors, use interactive debugger to view
 function internals, use breakpoints to quickly check your code and how to
 debug non-interactive codes.
 
-**Material**: coming soon!
+**Material**: https://aaltoscicomp.github.io/r-debugging
